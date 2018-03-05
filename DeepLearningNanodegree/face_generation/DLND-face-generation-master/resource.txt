@@ -1,0 +1,1 @@
+https://github.com/mdcramer/DCGAN-Face-Generation/blob/master/dlnd_face_generation.ipynb
